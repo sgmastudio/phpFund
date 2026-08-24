@@ -1,0 +1,78 @@
+{
+  "course": "php-fundamentals",
+  "language": "php",
+  "language_id": 68,
+  "entrypoint": "main.php",
+  "version": 1,
+  "content_hash": "34a55e1bc2440176",
+  "lessons": [
+    {
+      "slug": "hello-world",
+      "tests_hash": "b33fa086444f"
+    },
+    {
+      "slug": "variables-and-types",
+      "tests_hash": "4ccc141f8a2f"
+    },
+    {
+      "slug": "numbers-and-math",
+      "tests_hash": "69adc0cc5957"
+    },
+    {
+      "slug": "strings",
+      "tests_hash": "eb06fa6128a5"
+    },
+    {
+      "slug": "sprintf-and-heredoc",
+      "tests_hash": "a0179a7563e1"
+    },
+    {
+      "slug": "conditionals",
+      "tests_hash": "1720a777f726"
+    },
+    {
+      "slug": "loops",
+      "tests_hash": "d936b3338ca8"
+    },
+    {
+      "slug": "functions",
+      "tests_hash": "4e6757737a4d"
+    },
+    {
+      "slug": "closures-and-arrow-functions",
+      "tests_hash": "f7f2797e472d"
+    },
+    {
+      "slug": "arrays",
+      "tests_hash": "824618d94a04"
+    },
+    {
+      "slug": "functional-arrays",
+      "tests_hash": "2ef2107d7b83"
+    },
+    {
+      "slug": "distinct-values",
+      "tests_hash": "6da2ebbae97c"
+    },
+    {
+      "slug": "classes",
+      "tests_hash": "c3ca27f8f320"
+    },
+    {
+      "slug": "inheritance-interfaces",
+      "tests_hash": "f45c745c27ac"
+    },
+    {
+      "slug": "interfaces-and-traits",
+      "tests_hash": "2f1036a71e55"
+    },
+    {
+      "slug": "errors",
+      "tests_hash": "8312f714e84e"
+    },
+    {
+      "slug": "custom-exceptions",
+      "tests_hash": "6825281274ed"
+    }
+  ]
+}
